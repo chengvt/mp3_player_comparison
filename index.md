@@ -11,15 +11,16 @@ knit        : slidify::knit2slides
 ---
 
 ## Background
-Suppose that you Want to buy a digital audio player.  
+Suppose that you want to buy a digital audio player.  
 You start researching the information but the amount of data put you off.  
 Then you start wishing for digital audio player version of [product chart](http://www.productchart.com/). 
+This application is created to do the job.
 
 --- 
 
 ## Data
 The data of top 15 best selling digital audio player in Japan was collected from 
-kakaku.com on 7 Feburary 2016. The following information were collected.
+[kakaku.com](kakaku.com) on 7 Feburary 2016. The following information were collected.
 - Product name
 - Company
 - Price (yen)
@@ -31,7 +32,7 @@ kakaku.com on 7 Feburary 2016. The following information were collected.
 ---
 
 ## How to use
-Head to ... to see the product chart.
+Head to this [shiny application](https://chengvt.shinyapps.io/mp3_player_comparison/) to see the product chart.
 
 ---
 
